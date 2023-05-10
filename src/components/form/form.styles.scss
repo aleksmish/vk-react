@@ -1,0 +1,19 @@
+.form-container {
+  margin: 0 auto;
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2);
+
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;  
+  }
+
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+}
